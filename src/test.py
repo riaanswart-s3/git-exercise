@@ -1,3 +1,4 @@
+print "BLIE"
 print "Calculating success rate..."
 print "Calculating diagnostics..."
 
