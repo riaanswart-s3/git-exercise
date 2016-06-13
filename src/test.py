@@ -1,3 +1,4 @@
+print "BLA"
 print "Calculating success rate..."
 print "Calculating diagnostics..."
 
