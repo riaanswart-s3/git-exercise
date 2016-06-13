@@ -1,4 +1,4 @@
 print "Calculating success rate..."
-print "Success rate: 100%."
-print "It works!"
+print "Success rate: 0%."
+print "It is broken!"
 
