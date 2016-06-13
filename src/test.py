@@ -3,6 +3,7 @@ print "BLA"
 
 # A compatible change.
 print "Calculating success rate..."
+# Seperation
 print "Calculating diagnostics..."
 
 # A seperate comment.
