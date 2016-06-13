@@ -1,3 +1,4 @@
+# First half
 # A nice change.
 print "BLA"
 
@@ -6,6 +7,7 @@ print "Calculating success rate..."
 # Seperation
 print "Calculating diagnostics..."
 
+# Second half
 # A seperate comment.
 print "Success rate is too low!"
 # A local master compatible change.
