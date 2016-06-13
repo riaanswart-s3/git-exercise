@@ -1,5 +1,7 @@
 # A nice change.
 print "BLA"
+
+# A compatible change.
 print "Calculating success rate..."
 print "Calculating diagnostics..."
 
