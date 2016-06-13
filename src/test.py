@@ -11,4 +11,5 @@ print "Success rate is too low!"
 # A local master compatible change.
 print "Success rate: 0%."
 
+# Local broken commit
 print "It is broken!"
